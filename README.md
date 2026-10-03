@@ -272,6 +272,6 @@ morn-lazy-loader/
 ## License
 
 MIT License
-Copyright (c) 2026 MornRain
+Copyright (c) 2026 mornrain-lin
 
 详见 [LICENSE](LICENSE)。

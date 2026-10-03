@@ -1,14 +1,14 @@
 <?php
 /**
  * Plugin Name: Morn Lazy Loader
- * Plugin URI: https://github.com/mornrain/morn-lazy-loader
+ * Plugin URI: https://github.com/mornrain-lin/morn-lazy-loader
  * Description: 图片懒加载与占位符插件。为 img、iframe、video poster 及 CSS background-image 注入原生懒加载，支持模糊微缩图（LQIP）、纯色与 Skeleton 三种占位符，基于 IntersectionObserver 延迟加载并带降级方案，内置流量节省统计面板。零外部资源。
  * Version: 1.0.0
  * Requires at least: 6.0
  * Requires PHP: 7.4
  * Tested up to: 6.6
  * Author: MornRain
- * Author URI: https://github.com/mornrain
+ * Author URI: https://github.com/mornrain-lin
  * License: MIT
  * License URI: https://opensource.org/licenses/MIT
  * Text Domain: morn-lazy-loader
