@@ -1,3 +1,5 @@
+![mornrain-lazy-loader](assets/preview.png)
+
 # Morn Lazy Loader
 
 图片懒加载与占位符插件。为 `<img>`、`<iframe>`、`<video poster>` 与内联 CSS `background-image` 注入懒加载，提供模糊微缩图（LQIP）、纯色、骨架屏三种占位符，内置流量节省统计面板。
